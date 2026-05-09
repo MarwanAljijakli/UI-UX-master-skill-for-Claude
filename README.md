@@ -140,4 +140,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the full guide and PR checklist.
 
 ## Credits
 
-Authored by [Marwan Aljijakli](https://github.com/MarwanAljijakli). Built on the [Anthropic agent skills](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview) framework.
+Authored by [Marwan Aljijakli](https://github.com/MarwanAljijakli).
